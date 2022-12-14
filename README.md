@@ -25,7 +25,7 @@ Metrics List (this contains most of the metrics you need for the dashboard and y
 Metadata
 
 
-#Data Model
+# Data Model
 
 ![image](https://user-images.githubusercontent.com/118211443/207526488-0f824f25-5ea4-4e02-8b78-9958593d2754.png)
 
@@ -36,7 +36,7 @@ Metadata
 
 
 
-Key Insights:
+# Key Insights:
 
 1. After launching 5G plan:
 	a. Average revenue has decreased by 0.50% and revenue loss is 8.04 Cr.
@@ -48,3 +48,14 @@ Key Insights:
 3. Top unsubscribing users are from Delhi, Kolkata, Bangalore, Chennai and Pune, 
    they are having unsubscription rate more than 6.5%.
 4. PIO and Britel have more than half of the market share between them, that is approximately 63%. 
+
+
+# Suggestions:
+
+1. The cost of the internet plans has to be rethinked on, as it is observed that the ARPU is more after launching 5G,
+   even when the numbers of unsubscribed users is going up.
+   Cost might be the major reason for decreased active users.
+2. Internet plans has to be optimized as only 3 plans are contributing half of the revenue, 
+   where as other 7 plans combine share other half.
+3. Need to study the plans introduced by Pio and Birtel as the share between them more than half of maket share.
+4. And lastly need to check proper network connectivity in all the cities. 
